@@ -13,6 +13,7 @@ module.exports = {
         purple: "#ccccff",
         darkPurple: "#9f9fd2",
         hoverPurple: "#535381",
+        lavender: "#F1ECFA",
       },
     },
     screens: {

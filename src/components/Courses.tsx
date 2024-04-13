@@ -75,8 +75,8 @@ const Courses = () => {
           ))}
         </div>
         <div className="flex justify-center pt-[20px] pb-[40px]">
-          <button className="text-center text-[25px] border-4 border-white rounded-xl px-[20px] py-[10px] hover:bg-white duration-300">
-            Check out our other courses!
+          <button className="text-center text-[15px] ss:text-[20px] sm:text-[25px] border-4 border-white rounded-xl px-[20px] py-[10px] bg-lavender hover:bg-purple duration-300">
+            Check out other courses!
           </button>
         </div>
       </div>

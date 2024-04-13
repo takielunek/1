@@ -38,7 +38,7 @@ const Slick = () => {
 
   return (
     <div>
-      <div className="py-4 ss:py-12">
+      <div className="py-6 ss:py-12">
         <Slider {...settings}>
           {slideData.map((item) => (
             <Slide

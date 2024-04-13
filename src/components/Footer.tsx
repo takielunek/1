@@ -53,7 +53,7 @@ const Footer = () => {
         </div>
       </div>
 
-      <div className="bg-purple py-[20px]">
+      <div className="bg-lavender py-[20px]">
         <p className="text-center text-[15px]">
           {" "}
           &copy; {currentYear} Karolina Anna Jesionek

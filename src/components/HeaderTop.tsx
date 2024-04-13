@@ -9,7 +9,7 @@ const HeaderTop = () => {
     "border-4 border-purple bg-purple hover:bg-white rounded-xl px-[10px] py-[2px] mx-[2px] duration-300";
 
   return (
-    <div className="border-b-2 border-gray-200 px-[10px]">
+    <div className="border-b-2 border-gray-200 px-[10px] bg-lavender">
       <div className="py-4 wrapper">
         <div className="flex justify-between items-center">
           <div className="flex justify-between">

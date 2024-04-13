@@ -3,6 +3,13 @@
 @tailwind utilities;
 
 .wrapper {
-    max-width: 1400px;
-    margin: auto;
+  max-width: 1400px;
+  margin: auto;
+}
+
+.background {
+  background-image: url("../../public/hikingBg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
