@@ -9,7 +9,7 @@ interface propsType {
 
 const Course: React.FC<propsType> = ({ img, title, price }) => {
   return (
-    <div className="w-3/4 sm:w-1/2 relative">
+    <div className="relative">
       <Image
         src={img}
         width={1000}

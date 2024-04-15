@@ -4,7 +4,6 @@ import { RxHamburgerMenu } from "react-icons/rx";
 const Navbar = () => {
   const link =
     "text-xl border-4 border-white bg-purple hover:bg-white rounded-xl px-[20px] py-[2px]  duration-300";
- 
 
   return (
     <div className="bg-purple">
